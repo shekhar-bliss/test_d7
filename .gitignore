@@ -1,11 +1,11 @@
-#sites/default/files
-#sites/default/private
-#sites/default/settings.php
-#cache/
-#files/
+sites/default/files
+sites/default/private
+sites/default/settings.php
+cache/
+files/
 
 # Eclipse-specific
-#.project
-#.metadata
+.project
+.metadata
 # PDT-specific
-#.buildpath
+.buildpath
